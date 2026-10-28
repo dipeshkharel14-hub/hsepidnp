@@ -1,0 +1,30 @@
+# Hsepid.np
+
+> Hsepid.np is a Nepal-based brand with two parts: Hsepid Optical (sunglasses, power glasses and eye-care from two physical optical stores in Kathmandu, plus an online store on Daraz) and Hsepid Tech (web apps, AI tools and interactive experiences). Founded by Dipesh Kharel.
+
+## Main page
+- [Hsepid.np home](https://YOUR-SITE-URL/): intro, optical stores, Hsepid Tech projects, about, contact (English, Nepali, Hindi, Bengali, Spanish, French, Arabic, Chinese)
+
+## Hsepid Optical — physical stores
+Location: Jadibuti, Narephat, near BP Eye Hospital, Kathmandu, Nepal.
+- Shreekunja Optical — phone/WhatsApp +977 9841623999 — https://shreekunja-optical.vercel.app
+- Radhakrishna Optical — phone/WhatsApp +977 9741889699
+
+## Hsepid Tech — projects
+- [Truth or Dare](https://letsplaytruthordare.vercel.app): multiplayer Nepali Truth or Dare game with a lie detector
+- [NEXUS](https://nexus144.vercel.app): AI-powered education platform
+- [Aivoke.Ai](https://aivokeai.vercel.app): AI assistant and automation platform
+- [Personal AI](https://personal-ai14.vercel.app): personal AI chat assistant
+- [Shreekunja Optical](https://shreekunja-optical.vercel.app): catalog and billing site for an optical shop
+- [Gita Prabhav](https://gita-prabhav14.vercel.app): devotional site themed around the Gita
+- [BANTBHA](https://bantbha.vercel.app): community utility web app
+- Full list of projects is on the home page.
+
+## Founder
+- Dipesh Kharel — https://www.dipeshkharel14.com.np and https://www.khareldipesh.com.np
+
+## Contact
+- Email: hsepidnp@gmail.com (use this address for any message or business enquiry)
+
+## Optional
+- [Sitemap](https://YOUR-SITE-URL/sitemap.xml)

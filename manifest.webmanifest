@@ -1,0 +1,19 @@
+{
+ "name": "Hsepid.np",
+ "short_name": "Hsepid.np",
+ "description": "Hsepid.np is a Nepal-based studio of web apps, AI tools and interactive experiences by founder Dipesh Kharel. Walk through the 3D office, browse every project and get in touch.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait-primary",
+ "background_color": "#05070d",
+ "theme_color": "#05070d",
+ "icons": [
+  {
+   "src": "logo.jpg",
+   "sizes": "512x512",
+   "type": "image/jpeg",
+   "purpose": "any"
+  }
+ ]
+}
