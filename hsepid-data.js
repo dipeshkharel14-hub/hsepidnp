@@ -24,7 +24,17 @@
      startDate:"2026-11-01", endDate:"2026-11-15", terms:"…", featured:false },
 */
 window.HSEPID_DATA = {
-  announcements: [],
+  announcements: [  {
+  id: "lovecraft-platform-launch-2026",
+  title: "Introducing LoveCraft — A New Digital Surprise Platform",
+  description: "LoveCraft is a project developed by Dipesh Kharel, designed to help people create personalized digital surprise pages for birthdays, anniversaries, apologies and special moments. Users can create interactive pages with messages, photos, videos, music and animations, then share them through a private link or QR code. The platform is currently under development, with its public website available at https://relationshipletter.vercel.app/.",
+  category: "project",
+  status: "in-progress",
+  publishedAt: "2026-10-30",
+  image: "",
+  link: "https://relationshipletter.vercel.app/",
+  featured: true
+}],
   products: [],
   offers: [],
   /* Planned developments: shown under "Upcoming developments". Never listed as available. */
