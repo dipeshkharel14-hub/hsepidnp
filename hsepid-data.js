@@ -31,7 +31,7 @@ window.HSEPID_DATA = {
   category: "project",
   status: "in-progress",
   publishedAt: "2026-10-30",
-  image: "",
+  image: "LoveCraft Heartfelt Digital Logo.png",
   link: "https://relationshipletter.vercel.app/",
   featured: true
 }],
