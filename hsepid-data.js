@@ -34,8 +34,8 @@ window.HSEPID_DATA = {
   image: "LoveCraft Heartfelt Digital Logo.png",
   link: "https://relationshipletter.vercel.app/",
   featured: true
-},
-                 {
+}
+{
   id: "shreekunja-opticals-website-upgrade-2026",
   title: "Shreekunja Opticals — A Complete Digital Shopping Experience",
   description: "Shreekunja Opticals is a digital platform developed by Dipesh Kharel for a modern optical shopping experience in Kathmandu, Nepal. The website allows customers to explore eyewear products, discover optical services, read blog updates, locate the store, and place orders online. It includes product listings, order tracking, Cash on Delivery and eSewa payment options, multilingual support, multiple aesthetic themes, and an AI-powered chat experience. The platform is designed to make discovering and purchasing eyewear easier and more convenient. Visit the website at https://shreekunjaoptical.vercel.app/.",
